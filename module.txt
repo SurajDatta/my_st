@@ -3,7 +3,7 @@
     "version" : "0.2.0-SNAPSHOT",
     "author" : "",
     "displayName" : "my_st",
-    "description" : "This contains 2 ST house and ",
+    "description" : "This structure templates contains 2 models, a house and a ladder. Set them accordingly to form a beautiful building.",
     "dependencies" : [
     {
         "id" : "structureTemplates",
