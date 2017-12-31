@@ -1,0 +1,15 @@
+{
+    "id" : "my_st",
+    "version" : "0.2.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "my_st",
+    "description" : "This contains 2 ST house and ",
+    "dependencies" : [
+    {
+        "id" : "structureTemplates",
+        "minVersion" : "0.2.0"
+    }
+
+    ],
+    "serverSideOnly" : false
+}
